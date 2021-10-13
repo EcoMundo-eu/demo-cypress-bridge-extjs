@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES6",
+    "lib": ["ES2020", "dom"],
+    "allowJs": true,
+    "moduleResolution": "Node",
+    "baseUrl": "../node_modules"
+  }
+}

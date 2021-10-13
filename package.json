@@ -1,0 +1,30 @@
+{
+  "name": "e2e-test",
+  "version": "1.0.0",
+  "description": "This project is an End to End test cases for Cypress.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-wait-until": "^1.7.1"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.6",
+    "cypress": "^7.7.0",
+    "cypress-file-upload": "^5.0.7",
+    "cypress-intellij-reporter": "0.0.6",
+    "cypress-mochawesome-reporter": "^2.0.1",
+    "faker": "^5.5.3",
+    "nyc": "^15.1.0",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ecomundo.eu:ecoApps/e2e-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

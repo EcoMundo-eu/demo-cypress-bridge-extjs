@@ -1,0 +1,14 @@
+{
+  "projectId": "Coworkee",
+  "supportFile": "cypress/support/index.js",
+  "chromeWebSecurity": false,
+  "blockHosts": [
+    "*google-analytics.com"
+  ],
+  "defaultCommandTimeout": 20000,
+  "requestTimeout": 20000,
+  "responseTimeout": 120000,
+  "pageLoadTimeout": 120000,
+  "viewportHeight": 768,
+  "viewportWidth": 1366
+}

@@ -2,7 +2,7 @@
 
 # Demo-cypress-bridge-extjs
 
-This project is for demo purpose ExtJS app `^7.0.0` especially for the [forked Coworkee app](https://github.com/rjben/Coworkee)
+This project is for demo purpose for the [forked Coworkee app](https://github.com/rjben/Coworkee).
 
 ## Installation
 
